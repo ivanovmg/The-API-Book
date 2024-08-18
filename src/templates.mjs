@@ -323,6 +323,7 @@ export const templates = {
     graphHtmlTemplate: (graph) => `<!DOCTYPE html>
 <html>
     <head>
+        <meta charset="utf-8"/>
         <link rel="stylesheet" type="text/css" href="../docs/assets/fonts.css"/>
         <style>
             html, body {
