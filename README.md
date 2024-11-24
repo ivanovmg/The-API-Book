@@ -17,11 +17,7 @@ This is an open-source book distributed under the [Creative Commons Attribution-
 
 ## Current State and the Roadmap
 
-The second edition of the book is finished! This is everything I ever wanted to tell the reader.
-
-There are several areas to improve:
-  * Add more diagrams
-  * Add more live code examples (specifically — `SearchBox` designed in MVP paradigm and using React/Redux).
+See [ROADMAP.md](./ROADMAP.md).
 
 ## Contributing
 
